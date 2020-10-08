@@ -1,0 +1,55 @@
+* {
+    font-family: 'Alegreya', serif;
+    margin: 10px;
+}
+
+html {
+    background-color: white;
+}
+
+body {
+    background-color: lightgrey;
+    padding-top: 1%;
+    border-radius: 10px;
+}
+
+header nav a {
+    text-decoration: none;
+}
+
+div p a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+.responsive {
+    width: 33%;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.first-column {
+    flex: 38%;
+}
+
+.second-column {
+    flex: 60%;
+}
+
+.end_footer {
+    margin: 0px;
+}
+
+#mywork_h1 {
+    text-align: center;
+}
